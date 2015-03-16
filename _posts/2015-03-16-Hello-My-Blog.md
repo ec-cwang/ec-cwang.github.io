@@ -8,7 +8,6 @@ tags: [Reading, Life]
 Everyone has his own answer to the question that what is more important in his life
 
 ### Which one is more important?
----
 
 Direction > Effort  
 Health > Money  
@@ -20,7 +19,6 @@ Action > will
 <!--more-->
 
 ### 一生重要的7项资产
----
 
 1. 健康：人类的第一资产  
 2. 财富：资产的重要诠释  
@@ -31,7 +29,6 @@ Action > will
 7. 人生的意义：成长的源动力
 
 ### 人生四句话
----
 
 - 把自己当成别人（痛苦），  
 - 把别人当成自己（同情）,  
