@@ -17,6 +17,8 @@ EQ > IQ
 Ability > Knowledge  
 Action > will  
 
+<!--more-->
+
 ### 一生重要的7项资产
 
 1. 健康：人类的第一资产  
