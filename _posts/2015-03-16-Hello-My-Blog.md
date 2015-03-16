@@ -3,7 +3,6 @@ layout: post
 category: "Reading"
 title: "What is more important?"
 tags: [Reading, Life]
-expert: "Everyone has his own answer to the question that what is more important in his life"
 ---
 
 Everyone has his own answer to the question that what is more important in his life
