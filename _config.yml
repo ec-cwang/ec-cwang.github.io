@@ -1,0 +1,23 @@
+markdown: redcarpet
+permalink: /:categories/:title.html
+url: 
+lsi: false
+pygments: true
+safe: true
+auto: false 
+
+paginate: 8
+paginate_path: "page:num"
+
+# presonal config
+domain: 
+title: ec-cwang's Blog
+description: Java Web, Linux, Reading...
+author: ec-cwang
+email: 
+github: ec-cwang
+
+config:
+  js_dir:
+  img_dir:
+  css_dir:
