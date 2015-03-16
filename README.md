@@ -1,6 +1,8 @@
 我的个人博客 My Personal Blog
 ================
 
+> Forked from https://github.com/panxw [https://github.com/panxw]
+
 ####博客地址 Blog Link
 http://www.ec-cwang.github.io
 
