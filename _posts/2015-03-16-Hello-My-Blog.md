@@ -6,6 +6,8 @@ tags: [Reading, Life]
 summary: "Everyone has his own answer to the question that what is more important in his life"
 ---
 
+Everyone has his own answer to the question that what is more important in his life
+
 ### Which one is more important?
 
 Direction > Effort  
