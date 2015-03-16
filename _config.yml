@@ -6,6 +6,8 @@ pygments: true
 safe: true
 auto: false 
 
+excerpt_separator: <!--more--> # you can specify your own separator, of course.
+
 paginate: 8
 paginate_path: "page:num"
 
