@@ -9,11 +9,11 @@ summary: "Everyone has his own answer to the question that what is more importan
 ### Which one is more important?
 
 Direction > Effort  
-Health > Money
-Life > Diplome
-EQ > IQ
-Ability > Knowledge
-Action > will
+Health > Money  
+Life > Diplome  
+EQ > IQ  
+Ability > Knowledge  
+Action > will  
 
 ### 一生重要的7项资产
 
