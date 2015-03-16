@@ -6,6 +6,6 @@ title: "关于：About"
 My name is Justin Meow, An amateur of Linux platform, I'm living in blabal.
 
 ####Links
-Resume: 
+Resume:   
 GitHub: <https://github.com/{{ site.github }}>  
 LinkedIn: 
