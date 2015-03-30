@@ -4,7 +4,7 @@
 > Forked from [panxw's blog](https://github.com/panxw/panxw.github.com, "panxw's blog")
 
 ####博客地址 Blog Link
-http://www.ec-cwang.github.io
+http://ec-cwang.github.io
 
 ####使用本项目作为博客模板，仅需如下几步：
 1,首先Fork或Download一份本项目代码。  
