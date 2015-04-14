@@ -22,6 +22,7 @@ Just use CrystalDiskInfoPortable, and configure it to disbale APM and run it in 
 > Modifying /etc/hdparm.conf will assure to disable APM every time the machine Power On, but the state will not last when resuming from suspend or hibernate
 
 - To disable APM when resuming from suspend or hibernate, add a script "hdparm_set" in /lib/systemd/system-sleep/, and add `x` permission for it
+
 ```
 #!/bin/sh
 hdparm -B 255 /dev/sda
