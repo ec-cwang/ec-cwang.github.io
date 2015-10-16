@@ -5,8 +5,6 @@ title: "git checkout vs git reset"
 tags: [Git]
 ---
 
-# git checkout vs git reset
-
 首先，这两个命令都很常用，比如`git checkout`用来切换branch，`git reset HEAD filename`用来unstage一个文件。
 以下对两者在撤消更改和回退历史版本的应用中的不同略做总结。
 
