@@ -1,8 +1,8 @@
 ---
 layout: post
 category: "System"
-title: "WD hdd Click Noise Solution"
-tags: [Debian] [Linux] [Cups]
+title: "The Annoying Cups Browsed"
+tags: [Debian]
 ---
 # Annoying cups-browsed
 
