@@ -4,8 +4,6 @@ category: "System"
 title: "The Annoying Cups Browsed"
 tags: [Debian]
 ---
-# Annoying cups-browsed
-
 Recently every time I reboot the debian, the screen pauses at a line: `a stop job is running for make remote cups printers available locally` and I must wait 1min30s!!. And I directly goolged this sentence only to find that there are not many people who dicuss it, and this sentence has also grammar error.
 
 ## Point Here
